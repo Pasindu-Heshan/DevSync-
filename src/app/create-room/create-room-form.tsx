@@ -67,7 +67,7 @@ export function CreateRoomForm() {
               <FormControl>
                 <Input placeholder="Description" {...field} />
               </FormControl>
-              <FormDescription>Describe what you're coding on</FormDescription>
+              <FormDescription>Describe what you are coding on</FormDescription>
               <FormMessage />
             </FormItem>
           )}
@@ -98,7 +98,7 @@ export function CreateRoomForm() {
                 <Input placeholder="Language" {...field} />
               </FormControl>
               <FormDescription>
-                Primary Progamming Language that you're working with
+                Primary Progamming Language that you are working with
               </FormDescription>
               <FormMessage />
             </FormItem>
